@@ -14,20 +14,18 @@
 
 <img align="right" height="320px" width="360px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
- - 🥀 Javascript, Typescript, React, Vue, Angular
+ - 🥀 HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, Angular, Electron
  
- - 🔭 HTML & CSS & Javascript, jQuery
+ - 🚀 Node.js, Express.js, Python, Django, Flask, Ruby, Ruby on Rails, Java, Spring, PHP, Laravel
  
- - 🛸 Material UI, Ant Design
- 
- - 🚀 Node.js & Express, Python & Flask & Django
+ - 🏰 MongoDB, Redis, MySQL, PostgreSQL, Firebase, DynamoDB, Neo4j, Oracle, SQLite, Elasticsearch, Apache Solr
   
- - 🛬 Ruby and Rails, PHP & Laravel, Java & Spring, C# & .NET
+ - 🛫 Git, Jira, Jenkins, AWS, Google Cloud Platform, Docker, Kubernetes, CI/CD Pipeline
  
- - 🏰 MongoDB, Redis, MySQL, PostgreSQL, Oracle
-  
- - 🛫 Elasticsearch, Apache Solr, Apache Lucene
-
+ - 🔭 Jest, Mocha, Chai, Supertest, Cypress, OWASP ZAP, Burp Suite, Selenium
+ 
+ - 🏯 ESTful API Design, GraphQL, JSON Web Tokens (JWT), OAuth, OpenID Connect, HTTPS & SSL/TLS & PGP, XSS & CSRF & SQL injection, CORS
+ 
 <br />
 <br />
 <br />
