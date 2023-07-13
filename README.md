@@ -52,7 +52,7 @@
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" width="70" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" width="70" /></a>  
 <a href="https://reactnative.dev/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/tabler/brand-react-native.svg" alt="React Native" height="70" width="70" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="70" width="70" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="70" width="70" /></a>  
@@ -79,9 +79,9 @@
 ### Backend Development
 
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="70" width="70" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="70" width="70" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="70" width="70" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="70" width="70" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" width="70" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="70" width="70" /></a>  
