@@ -114,16 +114,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FullStackGenius/FullStackGenius/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tyrese-FullStackGenius/Tyrese-FullStackGenius/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FullStackGenius&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="50%" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FullStackGenius&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="50%" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FullStackGenius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" width="50%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tyrese-FullStackGenius&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="50%" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tyrese-FullStackGenius&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="50%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tyrese-FullStackGenius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" width="50%" alt="languages graph"  />
 </div>
 
 ###
