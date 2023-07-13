@@ -82,7 +82,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="70" width="70" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="70" width="70" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="70" width="70" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="70" width="70" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="padding: 10px" src="https://api.iconify.design/skill-icons/django.svg" alt="Django" height="70" width="70" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" width="70" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="padding: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="70" width="70" /></a>  
 </div>
@@ -140,13 +140,13 @@
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Tyrese3915" />
+        <img align="center" style="border-radius: 30px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Tyrese3915" />
     </a>
     <a href="https://liberapay.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.svg?etag=.yjV53S_Yb2wp7l1bfBotLA~~" height="50" alt="Tyrese3915" />
+        <img align="center" style="border-radius: 30px" src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.svg?etag=.yjV53S_Yb2wp7l1bfBotLA~~" height="60" alt="Tyrese3915" />
     </a>
     <a href="https://ko-fi.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Tyrese3915" />
+        <img align="center" style="border-radius: 30px" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Tyrese3915" />
     </a>
 </div>
 
