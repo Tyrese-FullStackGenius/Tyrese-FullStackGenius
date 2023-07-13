@@ -140,13 +140,13 @@
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tyrese3915" />
+        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Tyrese3915" />
     </a>
     <a href="https://liberapay.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.svg?etag=.yjV53S_Yb2wp7l1bfBotLA~~" height="50" width="210" alt="Tyrese3915" />
+        <img align="center" src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.svg?etag=.yjV53S_Yb2wp7l1bfBotLA~~" height="50" alt="Tyrese3915" />
     </a>
     <a href="https://ko-fi.com/Tyrese3915" target="_blank" style="display: inline-block;">
-        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tyrese3915" />
+        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Tyrese3915" />
     </a>
 </div>
 
