@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working from home.
 
-- 🌱 I am currently learning blockchain technology.
+- 🌱 I am currently learning Blockchain Technology.
 
 - ❓ Ask for anything related to the MERN Stack and related technologies.
 
