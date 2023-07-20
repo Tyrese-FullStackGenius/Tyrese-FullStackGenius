@@ -114,12 +114,6 @@
 
 ###
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tyrese-FullStackGenius&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
-<br clear="both">
-
-###
-
 <img src="https://raw.githubusercontent.com/Tyrese-FullStackGenius/Tyrese-FullStackGenius/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
