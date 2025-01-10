@@ -84,9 +84,9 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="Node.js" height="70" width="70" padding="10" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img src="https://api.iconify.design/skill-icons/expressjs-dark.svg" alt="Express.js" height="70" width="70" padding="10" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="70" width="70" padding="10" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" height="70" width="70" padding="10" /></a> 
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://api.iconify.design/skill-icons/django.svg" alt="Django" height="70" width="70" padding="10" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" width="70" padding="10" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="70" width="70" padding="10" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" width="70" padding="10" /></a>   
 </div>
 
 ### Database Management
