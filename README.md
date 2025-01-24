@@ -6,13 +6,13 @@
 
 ### <div align="center">👨‍⚖️ Life Long Learner 👨‍⚖️</div>
 
-- 🔭 I'm currently working from home.
+- 🌱 I'm currently working from home.
 
-- 🌱 I am currently learning Blockchain Technology.
+- 🔭 I am currently learning Blockchain Technology.
 
 - ❓ Ask for anything related to the MERN Stack and related technologies.
 
-- ⚡ Fun fact: Use spaces instead of tabs.
+- ⚡ Fun fact: Comments in code are for future you.
 
 <br/>
 
